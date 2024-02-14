@@ -21,3 +21,21 @@ export const products = [
     name: "Kids",
   },
 ];
+
+export const section2 = [
+  {
+    title: "Lorem ipsum, dolor sit amet",
+    content:
+      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium totam",
+  },
+  {
+    title: "Lorem ipsum, dolor sit amet",
+    content:
+      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium totam",
+  },
+  {
+    title: "Lorem ipsum, dolor sit amet",
+    content:
+      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium totam",
+  },
+];

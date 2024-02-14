@@ -3,7 +3,7 @@ import { products } from "../constants";
 
 const Section1 = () => {
   return (
-    <section id="Section 1" className="max-container max-sm:mt-12">
+    <section id="Section1" className="max-container max-sm:mt-12">
       <div className="border-2 border-red-500 flex flex-col justify-center items-center gap-5">
         <h2 className="text-3xl font-bold font-palanquin">
           We'll find style for your life
