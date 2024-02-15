@@ -26,16 +26,16 @@ export const section2 = [
   {
     title: "Lorem ipsum, dolor sit amet",
     content:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium totam",
+      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium totam consectetur adipisici.",
   },
   {
     title: "Lorem ipsum, dolor sit amet",
     content:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium totam",
+      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium totam consectetur adipisici.",
   },
   {
     title: "Lorem ipsum, dolor sit amet",
     content:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium totam",
+      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium totam consectetur adipisici.",
   },
 ];

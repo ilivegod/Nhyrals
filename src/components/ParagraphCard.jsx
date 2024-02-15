@@ -3,9 +3,8 @@ import React from "react";
 const ParagraphCard = ({ title, content }) => {
   return (
     <div className="flex flex-1 flex-col w-full max-sm:w-full">
-      <p className="text-gray-600 font-montserrat lg:max-w-[220px]">
-        <span className="font-bold">{title}</span>
-        {content}
+      <p className="text-gray-600 font-montserrat lg:max-w-[800px] sm:max-w-[1000px] text-center text-wrap leading-7">
+        <span className="font-bold text-black">{title}</span> {content}
       </p>
     </div>
   );
