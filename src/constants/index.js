@@ -1,4 +1,5 @@
 import Sticks from "../assets/qasim-malick-Yh9FrbN5Bts-unsplash.jpg";
+import Lady from "../assets/lance-reis-RQO2DmrRJFg-unsplash.jpg";
 
 export const navLinks = [
   { href: "#home", label: "Home" },
@@ -37,5 +38,38 @@ export const section2 = [
     title: "Lorem ipsum, dolor sit amet",
     content:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium totam consectetur adipisici.",
+  },
+];
+
+export const products2 = [
+  {
+    imgURL: Lady,
+  },
+  {
+    imgURL: Lady,
+  },
+  {
+    imgURL: Lady,
+  },
+  {
+    imgURL: Lady,
+  },
+  {
+    imgURL: Lady,
+  },
+  {
+    imgURL: Lady,
+  },
+  {
+    imgURL: Lady,
+  },
+  {
+    imgURL: Lady,
+  },
+  {
+    imgURL: Lady,
+  },
+  {
+    imgURL: Lady,
   },
 ];

@@ -2,6 +2,7 @@ import Nav from "./sections/Nav";
 import Hero from "./sections/Hero";
 import Section1 from "./sections/Section1";
 import Section2 from "./sections/Section2";
+import Section3 from "./sections/Section3";
 import Brands1000 from "./sections/Brands1000";
 import Footer from "./sections/Footer";
 
@@ -19,6 +20,9 @@ function App() {
       </section>
       <section className="sm:px-16 px-8 sm:py-4 py-2 ">
         <Section2 />
+      </section>
+      <section className="sm:px-16 px-8 sm:py-4 py-2 bg-pink-300">
+        <Section3 />
       </section>
       <section className="sm:px-16 px-8 sm:py-24 py-12 bg-yellow-400">
         <Brands1000 />
