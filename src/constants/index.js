@@ -1,5 +1,6 @@
 import Sticks from "../assets/qasim-malick-Yh9FrbN5Bts-unsplash.jpg";
-import Lady from "../assets/lance-reis-RQO2DmrRJFg-unsplash.jpg";
+
+import Lady from "../assets/newerpic.png";
 
 export const navLinks = [
   { href: "#home", label: "Home" },
@@ -10,16 +11,22 @@ export const navLinks = [
 
 export const products = [
   {
-    imgURL: Sticks,
-    name: "Men",
+    imgURL: Lady,
+    name: "The latest products from Nhyrals",
+    description:
+      "Here are the latest and biggest products that our company can offer our beloved clients",
   },
   {
-    imgURL: Sticks,
-    name: "Women",
+    imgURL: Lady,
+    name: "The latest products from Nhyrals",
+    description:
+      "Here are the latest and biggest products that our company can offer our beloved clients",
   },
   {
-    imgURL: Sticks,
-    name: "Kids",
+    imgURL: Lady,
+    name: "The latest products from Nhyrals",
+    description:
+      "Here are the latest and biggest products that our company can offer our beloved clients",
   },
 ];
 
@@ -42,12 +49,6 @@ export const section2 = [
 ];
 
 export const products2 = [
-  {
-    imgURL: Lady,
-  },
-  {
-    imgURL: Lady,
-  },
   {
     imgURL: Lady,
   },

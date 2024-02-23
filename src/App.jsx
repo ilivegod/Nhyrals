@@ -11,23 +11,23 @@ import { useState } from "react";
 function App() {
   return (
     <main className="flex flex-col relative ">
-      <Nav />
-      <section className=" wide:padding-r padding-b bg-slate-600">
+      <Nav className="bg-[#F5F5DC]" />
+      <section className=" wide:padding-r padding-b bg-[#F5F5DC]">
         <Hero />
       </section>
-      <section className="sm:px-16 px-8 sm:py-24 py-12 ">
+      <section className="sm:px-16 px-8 sm:py-24 py-12 bg-[#F5F5DC]">
         <Section1 />
       </section>
-      <section className="sm:px-16 px-8 sm:py-4 py-2 ">
+      <section className="sm:px-16 px-8 sm:py-4 py-2 bg-[#F5F5DC]">
         <Section2 />
       </section>
-      <section className="sm:px-16 px-8 sm:py-4 py-2 bg-pink-300">
-        <Section3 />
+      <section className="sm:px-16 px-8 sm:py-4 py-2 bg-[#F5F5DC]">
+        {/* <Section3 /> */}
       </section>
-      <section className="sm:px-16 px-8 sm:py-24 py-12 bg-yellow-400">
+      <section className="sm:px-16 px-8 sm:py-24 py-12 bg-[#F5F5DC]">
         <Brands1000 />
       </section>
-      <section className="sm:px-16 px-8 bg-black">
+      <section className="sm:px-16 px-8 bg-[#E3735E]">
         {" "}
         <Footer />{" "}
       </section>
